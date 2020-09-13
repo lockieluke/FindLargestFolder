@@ -1,0 +1,24 @@
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\FindLargestFolder.exe.config
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\FindLargestFolder.exe
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\FindLargestFolder.pdb
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\obj\Debug\FindLargestFolder.csprojAssemblyReference.cache
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\obj\Debug\FindLargestFolder.csproj.CoreCompileInputs.cache
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\obj\Debug\FindLargestFolder.csproj.CopyComplete
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\obj\Debug\FindLargestFolder.exe
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\obj\Debug\FindLargestFolder.pdb
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\High DPI Handler.dll
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\High DPI Handler.pdb
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\ByteSize.dll
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\FindLargestFolder.exe.manifest
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\bin\Debug\FindLargestFolder.application
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\obj\Debug\FindLargestFolder.exe.manifest
+C:\Users\Way Luk\source\repos\FindLargestFolder\FindLargestFolder\obj\Debug\FindLargestFolder.application
